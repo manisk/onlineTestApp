@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.active{
+  background-color: chocolate;
+  color: #fff;
+}
+.option-btn{
+  margin: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
